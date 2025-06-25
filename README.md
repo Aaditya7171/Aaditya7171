@@ -111,14 +111,6 @@
 
 <hr>
 
-<h2>📚 Education</h2>
-<ul>
-  <li><strong>Bachelor of Technology in Computer Science Engineering</strong><br>
-    Lakshmi Narain College of Technology and Science, Indore | 2021 - 2025 | CGPA: 7.62/10</li>
-  <li><strong>Senior Secondary (12th Grade)</strong><br>
-    Government CSA Higher Secondary School, Argat, Satna | 2020 - 2021 | Percentage: 88.8%</li>
-</ul>
-
 <hr>
 
 <h2>🏅 Certifications</h2>
@@ -131,7 +123,7 @@
 
 <hr>
 
-<h2>� excited GitHub Stats</h2>
+<h2>📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaditya7171&theme=dark&hide_border=true" alt="Streak Stats">
   <br>
@@ -139,18 +131,3 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=aaditya7171&show_icons=true&theme=vision-friendly-dark&include_all_commits=true" alt="GitHub Stats">
 </div>
-
- RECORD <hr>
-
-<h2>📬 Let's Connect!</h2>
-<p align="left">
-  <a href="mailto:risingaditya91@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.hackerrank.com/@risingaditya91">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank">
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/risingadasnb">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
-  </a>
-</p>
