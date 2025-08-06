@@ -116,7 +116,7 @@
     <td><a href="https://ecovolt-nu.vercel.app/">Live Demo</a></td>
   </tr>
   <tr>
-    <td><strong>Taskio</strong></td>
+    <td><a href="https://github.com/Aaditya7171/taskio"><strong>Taskio</strong></a></td>
     <td>Modern todo list app with Kanban, habit tracking, and analytics</td>
     <td>React, TypeScript, Node.js, Express.js, PostgreSQL, Tailwind CSS</td>
     <td><a href="https://livetaskio.netlify.app/">Live Demo</a></td>
