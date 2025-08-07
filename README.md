@@ -103,6 +103,12 @@
     <th>Tech Stack</th>
     <th>Live Demo</th>
   </tr>
+    <tr>
+    <td><a href="https://github.com/Aaditya7171/FootageFlow"><strong>FootageFlow</strong></a></td>
+    <td>Video management platform powered by Whisper and Gemini</td>
+    <td>React, TypeScript, Node.js, Express.js, PostgreSQL, Cloudinary, Prisma</td>
+    <td><a href="https://footage-flow-zeta.vercel.app/login">Live Demo</a></td>
+  </tr>
   <tr>
     <td><a href="https://github.com/Aaditya7171/FilmFusion"><strong>FilmFusion</strong></a></td>
     <td>Movie discovery platform with 1,000 users and 67% faster APIs</td>
