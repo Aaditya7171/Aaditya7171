@@ -15,15 +15,6 @@
 
 <hr>
 
-<h2>🔥 Coding Credentials</h2>
-<ul>
-  <li>🏅 <strong>5-Star HackerRank</strong> | <strong>200+ LeetCode/HackerRank Solutions</strong></li>
-  <li>📈 <strong>DSA Supreme 3.0</strong> Certification (Ongoing)</li>
-  <li>🏆 <strong>1st Position</strong> - Smart India Hackathon (College Level)</li>
-  <li>👨‍🏫 Mentored peers in DSA, boosting contest rankings by 30%</li>
-  <li>🎨 Won poster-making competition and designed 25+ event graphics</li>
-</ul>
-
 <hr>
 
 <h2>🛠️ Tech Stack</h2>
