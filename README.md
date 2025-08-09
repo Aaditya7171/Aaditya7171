@@ -122,16 +122,6 @@
 
 <hr>
 
-<h2>🏅 Certifications</h2>
-<ul>
-  <li><a href="https://bit.ly/3FsNs1Z">Full-Stack Development Bootcamp - Udemy</a></li>
-  <li><a href="https://bit.ly/44XjnlA">JavaScript (Intermediate) - HackerRank</a></li>
-  <li><a href="https://bit.ly/3Fe40L8">Software Engineer Intern - HackerRank</a></li>
-  <li><a href="https://bit.ly/3HgZuft">CSS (Intermediate) - HackerRank</a></li>
-</ul>
-
-<hr>
-
 <h2>📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya7171&layout=compact&theme=vision-friendly-dark&hide=php" alt="Top Languages">
