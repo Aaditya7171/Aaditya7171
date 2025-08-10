@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Aditya Tomar</h1>
-<h3 align="center">🚀 AI-Fueled Full-Stack Developer | 5-Star DSA Gladiator | Open Source Contributor</h3>
+<h3 align="center">🚀 AI-Fueled Full-Stack Developer | 5-Star DSA Gladiator </h3>
 
 <div align="center">
   <a href="https://adityatomar.online" target="_blank">
