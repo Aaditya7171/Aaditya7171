@@ -141,3 +141,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=aaditya7171&show_icons=true&theme=vision-friendly-dark&include_all_commits=true"
         alt="GitHub Stats">
 </div>
+<p align="left">
+  <img src="https://count.getloli.com/get/Aaditya7171?theme=gelbooru" alt=":name" />
+</p>
+
