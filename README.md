@@ -142,6 +142,6 @@
         alt="GitHub Stats">
 </div>
 <p align="left">
-  <img src="https://count.getloli.com/get/Aaditya7171?theme=gelbooru" alt=":name" />
+  <img src="https://count.getloli.com/get/@Aaditya7171?theme=gelbooru" alt=":name" />
 </p>
 
