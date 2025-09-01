@@ -3,7 +3,7 @@
 
 <div align="center">
     <a href="https://adityatomar.online" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white"
+        <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=purple"
             alt="Portfolio">
     </a>
     <a href="https://linkedin.com/in/adityatomar91" target="_blank">
@@ -13,6 +13,10 @@
     <a href="https://leetcode.com/aditya1919" target="_blank">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
             alt="LeetCode">
+    </a>
+    <a href="https://codolio.com/profile/Aaditya1919" target="_blank">
+        <img src="https://img.shields.io/badge/Codolio-1E90FF?style=for-the-badge&logo=codeforces&logoColor=white"
+            alt="Codolio">
     </a>
 </div>
 
