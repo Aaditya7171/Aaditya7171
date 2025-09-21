@@ -102,10 +102,10 @@
 <h2>🚀 Recent Projects</h2>
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <a href="https://filmfusion-live.netlify.app/" target="_blank">
-    <img src="assets/FilmFusionSS.png" alt="FilmFusion" width="450">
-  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="assets/FilmFusionSS.png" alt="FilmFusion" width="250">
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://livetaskio.netlify.app/" target="_blank">
-    <img src="assets/Taskio-image.png" alt="Taskio" width="450">
+    <img src="assets/Taskio-image.png" alt="Taskio" width="250">
   </a>
 </div>
 
