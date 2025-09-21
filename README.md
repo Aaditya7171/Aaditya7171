@@ -108,7 +108,7 @@
     <img src="assets/Taskio-image.png" alt="Taskio" width="250">
   </a> &nbsp;&nbsp;&nbsp;
     <a href="https://footage-flow-zeta.vercel.app/login" target="_blank">
-    <img src="assets/footage-flow.png" alt="FootageFlow" width="250">
+    <img src="assets/footageflow.png" alt="FootageFlow" width="250">
   </a>
 </div>
 
