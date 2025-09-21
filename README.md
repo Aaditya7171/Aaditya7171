@@ -81,7 +81,7 @@
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash">
     <img src="https://img.shields.io/badge/Railway-0A0A0A?style=flat&logo=railway&logoColor=white" alt="Railway">
     <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite">
-    <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white"
+    <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=purple"
         alt="Cloudinary">
 </div>
 
