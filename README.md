@@ -1,5 +1,4 @@
-<h1 align="center">👋 Hi, I'm Aditya Tomar</h1>
-<h3 align="center">🚀 AI-Fueled Full-Stack Developer | 5-Star DSA Gladiator </h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2e003e,100:5a189a&text=Aditya%20Tomar&fontColor=white&fontAlign=50&fontAlignY=35&animation=blink&desc=AI-Fueled%20Full-Stack%20Developer&descAlign=50&descAlignY=60" alt="🚀 Aditya Tomar">
 
 <div align="center">
     <a href="https://adityatomar.online" target="_blank">
