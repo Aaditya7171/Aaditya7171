@@ -138,10 +138,10 @@
 
 <h2>📊 GitHub Stats</h2>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya7171&layout=compact&hide=php&title_color=ffffff&text_color=ffffff&icon_color=9d4edd&bg_color=0:2e003e"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya7171&layout=compact&hide=php&title_color=ffffff&text_color=ffffff&icon_color=9d4edd&bg_color=2e003e"
         alt="Top Languages">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=aaditya7171&show_icons=true&include_all_commits=true&title_color=ffffff&text_color=ffffff&icon_color=9d4edd&bg_color=0:2e003e"
+    <img src="https://github-readme-stats.vercel.app/api?username=aaditya7171&show_icons=true&include_all_commits=true&title_color=ffffff&text_color=ffffff&icon_color=9d4edd&bg_color=2e003e"
         alt="GitHub Stats">
 </div>
 
