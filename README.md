@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2e003e,100:5a189a&text=Aditya%20Tomar&fontColor=ffffff&fontAlign=50&fontAlignY=35&animation=fadeIn&desc=AI-Fueled%20Full-Stack%20Developer&descAlign=50&descAlignY=60&descAlignY=65&descAlign=50&descAlign=50&descAlign=50&descAlign=50&descColor=ffffff" alt="🚀 Aditya Tomar">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2e003e,100:5a189a&text=Aditya%20Tomar&fontColor=ffffff&fontAlign=50&fontAlignY=35&fontSize=40&font=Verdana&animation=fadeIn&desc=AI-Fueled%20Full-Stack%20Developer&descAlign=50&descAlignY=65&descColor=ffffff&descSize=20" alt="Aditya Tomar">
 
 <div align="center">
     <a href="https://adityatomar.online" target="_blank">
