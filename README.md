@@ -99,40 +99,16 @@
 </div>
 
 <hr>
+<h2>🚀 Recent Projects</h2>
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <a href="https://filmfusion-live.netlify.app/" target="_blank">
+    <img src="assets/FilmFusionSS.png" alt="FilmFusion" width="200">
+  </a>
+  <a href="https://livetaskio.netlify.app/" target="_blank">
+    <img src="assets/Taskio-image.png" alt="Taskio" width="200">
+  </a>
+</div>
 
-<h2>🚀 Featured Projects</h2>
-<table>
-    <tr>
-        <th>Project</th>
-        <th>Description</th>
-        <th>Tech Stack</th>
-        <th>Live Demo</th>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Aaditya7171/FootageFlow"><strong>FootageFlow</strong></a></td>
-        <td>Video management platform powered by Whisper and Gemini</td>
-        <td>React, TypeScript, Node.js, Express.js, PostgreSQL, Cloudinary, Prisma</td>
-        <td><a href="https://footage-flow-zeta.vercel.app/login">Live Demo</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Aaditya7171/FilmFusion"><strong>FilmFusion</strong></a></td>
-        <td>Movie discovery platform with 1,000 users and 67% faster APIs</td>
-        <td>React, TypeScript, Node.js, Express.js, PostgreSQL, Redis</td>
-        <td><a href="https://filmfusion-live.netlify.app/">Live Demo</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Aaditya7171/EcoVolt"><strong>EcoVolt</strong></a></td>
-        <td>EV charging station locator managing 50+ stations</td>
-        <td>Vue.js, Node.js, Express.js, PostgreSQL</td>
-        <td><a href="https://ecovolt-nu.vercel.app/">Live Demo</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Aaditya7171/taskio"><strong>Taskio</strong></a></td>
-        <td>Modern todo list app with Kanban, habit tracking, and analytics</td>
-        <td>React, TypeScript, Node.js, Express.js, PostgreSQL, Tailwind CSS</td>
-        <td><a href="https://livetaskio.netlify.app/">Live Demo</a></td>
-    </tr>
-</table>
 
 <hr>
 
