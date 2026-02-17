@@ -5,7 +5,7 @@
         <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=purple"
             alt="Portfolio">
     </a>
-    <a href="https://linkedin.com/in/adityatomar91" target="_blank">
+    <a href="www.linkedin.com/in/aaditya7171" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="LinkedIn">
     </a>
