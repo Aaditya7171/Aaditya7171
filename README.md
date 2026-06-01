@@ -116,13 +116,14 @@
 <hr>
 
 <h2>📊 GitHub Stats</h2>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya7171&layout=compact&theme=vision-friendly-dark&hide=php"
-        alt="Top Languages">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=aaditya7171&show_icons=true&theme=vision-friendly-dark&include_all_commits=true"
-        alt="GitHub Stats">
-</div>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aaditya7171&show_icons=true&theme=midnight-purple" />
+  <br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aaditya7171&layout=compact&theme=midnight-purple" />
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=YAaditya7171&color=8e44ad&style=flat-square" alt="profile views"/>
