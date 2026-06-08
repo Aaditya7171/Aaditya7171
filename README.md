@@ -115,8 +115,6 @@
 
 <hr>
 
-<h2>📊 GitHub Stats</h2>
-
 ## 📊 GitHub Stats
 
 <p align="center">
