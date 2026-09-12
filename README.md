@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2e003e,100:5a189a&text=Aditya%20Tomar&fontColor=ffffff&fontAlign=50&fontAlignY=35&fontSize=45&font=Courier&animation=fadeIn&desc=%20Full-Stack%20Developer&descAlign=50&descAlignY=65&descColor=ffffff&descSize=15" alt="Aditya Tomar">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2e003e,100:5a189a&text=Aditya%20Tomar&fontColor=ffffff&fontAlign=50&fontAlignY=35&fontSize=45&font=Courier&animation=fadeIn&desc=%20Backend%20Developer&descAlign=50&descAlignY=65&descColor=ffffff&descSize=15" alt="Aditya Tomar">
 
 <div align="center">
-    <a href="https://voidaditya.netlify.app/" target="_blank">
+    <a href="https://voidaditya.in" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=purple"
             alt="Portfolio">
     </a>
@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="LinkedIn">
     </a>
-    <a href="https://leetcode.com/aditya1919" target="_blank">
+    <a href="https://leetcode.com/u/Aditya1919" target="_blank">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
             alt="LeetCode">
     </a>
@@ -20,6 +20,14 @@
 </div>
 
 <hr>
+
+<h2>💼 Experience</h2>
+
+**Backend Dev Intern @ Integra Magna** (Mar 2026 to Sep 2026)
+
+Six months, real users, real bugs. Built role based access for a multi user product, handled auth the right way, and shipped async pipelines running quietly in the background to power some AI features.
+
+Stack of choice: Node.js, TypeScript, PostgreSQL, Payload CMS. Left with a much better instinct for what actually breaks in production.
 
 <hr>
 
@@ -50,7 +58,7 @@
 <h3>Backend Development</h3>
 <div style="display: flex; flex-wrap: nowrap; gap: 8px; overflow-x: auto;">
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor.white" alt="Express.js">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js">
     <img src="https://img.shields.io/badge/REST_APIs-000000?style=flat&logo=rest&logoColor=white" alt="REST APIs">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"
         alt="PostgreSQL">
@@ -98,6 +106,17 @@
     <img src="https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white" alt="Leaflet">
 </div>
 
+<h3>🚧 Currently building with (via Corpus, in progress)</h3>
+<div style="display: flex; flex-wrap: nowrap; gap: 8px; overflow-x: auto;">
+    <img src="https://img.shields.io/badge/BullMQ-DC382D?style=flat&logo=redis&logoColor=white" alt="BullMQ">
+    <img src="https://img.shields.io/badge/pgvector-316192?style=flat&logo=postgresql&logoColor=white" alt="pgvector">
+    <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white" alt="Zod">
+    <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" alt="Vitest">
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"
+        alt="GitHub Actions">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS">
+</div>
+
 <hr>
 <h2>🚀 Recent Projects</h2>
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
@@ -112,18 +131,14 @@
   </a>
 </div>
 
+**🚧 Corpus, in progress**: a RAG-based document Q&A backend built with Node.js, TypeScript, PostgreSQL + pgvector, Redis and BullMQ. Add the repo link here once it's pushed.
 
 <hr>
 
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aaditya7171&show_icons=true&theme=midnight-purple" />
+    <img src="https://github-stats-extended.vercel.app/api?username=aaditya7171&show_icons=true&theme=midnight-purple" />
   <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aaditya7171&layout=compact&theme=midnight-purple" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aaditya7171&layout=compact&theme=midnight-purple" />
 </p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YAaditya7171&color=8e44ad&style=flat-square" alt="profile views"/>
-</p>
-
