@@ -106,17 +106,6 @@ Stack of choice: Node.js, TypeScript, PostgreSQL, Payload CMS. Left with a much 
     <img src="https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white" alt="Leaflet">
 </div>
 
-<h3>🚧 Currently building with (via Corpus, in progress)</h3>
-<div style="display: flex; flex-wrap: nowrap; gap: 8px; overflow-x: auto;">
-    <img src="https://img.shields.io/badge/BullMQ-DC382D?style=flat&logo=redis&logoColor=white" alt="BullMQ">
-    <img src="https://img.shields.io/badge/pgvector-316192?style=flat&logo=postgresql&logoColor=white" alt="pgvector">
-    <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white" alt="Zod">
-    <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" alt="Vitest">
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"
-        alt="GitHub Actions">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS">
-</div>
-
 <hr>
 <h2>🚀 Recent Projects</h2>
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
@@ -130,8 +119,6 @@ Stack of choice: Node.js, TypeScript, PostgreSQL, Payload CMS. Left with a much 
     <img src="assets/footageflow.png" alt="FootageFlow" width="250">
   </a>
 </div>
-
-**🚧 Corpus, in progress**: a RAG-based document Q&A backend built with Node.js, TypeScript, PostgreSQL + pgvector, Redis and BullMQ. Add the repo link here once it's pushed.
 
 <hr>
 
